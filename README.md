@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Eduardo Rodriguez ⌨️
+
+![GitHub followers](https://img.shields.io/github/followers/edrosan?style=social)
+
 
 <!--
 **edrosan/edrosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
